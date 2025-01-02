@@ -15,9 +15,9 @@ After substantial filtering, seventeen compounds were evaluated for their pharma
 ![Capture d'écran 2025-01-02 141912](https://github.com/user-attachments/assets/5b6be020-086b-46c9-9a30-043e0f9a545f)
 ![Capture d'écran 2025-01-02 142034](https://github.com/user-attachments/assets/59c17258-03ca-4ee2-8fed-0ca0b6a1eb10)
 
-ADMET properties of the ligands hit and N-Phenethylcinnamamide compound are listed in the table below **(Table 2)** 
+ADMET properties of the ligands hit and N-Phenethylcinnamamide compound are listed in the table below **(Table 3)** 
 
-**Table 2:** ADMET scores of hit compounds and N-Phenethylcinnamamide compound.
+**Table 3:** ADMET scores of hit compounds and N-Phenethylcinnamamide compound.
 
 ![Capture d'écran 2025-01-02 143550](https://github.com/user-attachments/assets/7e95204e-0c15-4962-82b3-eb19eb35ffd0)
 
