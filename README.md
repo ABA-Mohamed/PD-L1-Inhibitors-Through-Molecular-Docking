@@ -12,8 +12,12 @@ N-Phenethylcinnamamide is an organic compound that has a cinnamamide skeleton to
 
 After substantial filtering, seventeen compounds were evaluated for their pharmacological properties, and eleven were identified as suitable for oral administration, supported by favorable pharmacokinetic assessments and a comprehensive ADMET profile. These eleven compounds, determined by the numerical codes **25, 43, 5, 11, 42, 55, 2, 48, 29, 3, and 51,** demonstrated promising potential as PD-L1 inhibitors. The interaction and 2D structures of these eleven hit ligands interacting with the PD-L1 protein are shown in **Table 2**, listed in decreasing order of affinity energy.
 
-![Capture d'écran 2025-01-02 141912](https://github.com/user-attachments/assets/5b6be020-086b-46c9-9a30-043e0f9a545f)
-![Capture d'écran 2025-01-02 142034](https://github.com/user-attachments/assets/59c17258-03ca-4ee2-8fed-0ca0b6a1eb10)
+![Capture d'écran 2025-01-02 144545](https://github.com/user-attachments/assets/ec91f138-b0d8-40d4-8fd1-6c62bdf59f30)
+![Capture d'écran 2025-01-02 144839](https://github.com/user-attachments/assets/f04d43b8-630d-4222-83d1-cd08d58f1a21)
+![Capture d'écran 2025-01-02 144859](https://github.com/user-attachments/assets/ae66d55f-d3a6-44dc-b185-0d2548cbec1a)
+![Capture d'écran 2025-01-02 144912](https://github.com/user-attachments/assets/193c1be4-5766-431c-bc9f-51aff410416c)
+![Capture d'écran 2025-01-02 144926](https://github.com/user-attachments/assets/381d9efd-aff4-4243-947b-a3d69fef26c0)
+![Capture d'écran 2025-01-02 144945](https://github.com/user-attachments/assets/543b0d36-c667-4a29-bd65-cd6080b0e624)
 
 ADMET properties of the ligands hit and N-Phenethylcinnamamide compound are listed in the table below **(Table 3)** 
 
